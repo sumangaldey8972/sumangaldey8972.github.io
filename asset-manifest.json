@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.800e19a8.css",
-    "main.js": "/static/js/main.261e01d3.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Sumangal_Dey_Resume.pdf": "/static/media/Sumangal_Dey_Resume.4433ce13a859b3821fb2.pdf",
+    "main.css": "/static/css/main.e29866c4.css",
+    "main.js": "/static/js/main.439e0f22.js",
+    "static/media/jcrew1.png": "/static/media/jcrew1.fe4a85ebea8f82b9abb7.png",
+    "static/media/caratlane1.png": "/static/media/caratlane1.fa57edd2baf3734a3be3.png",
+    "static/media/sd.jpg": "/static/media/sd.822101d096d605820703.jpg",
+    "static/media/rev2.png": "/static/media/rev2.cc9b03502555b6569e03.png",
+    "static/media/t1.png": "/static/media/t1.c6058b97f1c58edcc701.png",
+    "static/media/sd.pdf": "/static/media/sd.80f0bf7fc4fd87f422df.pdf",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/dsa.png": "/static/media/dsa.c13a3ec8e0899e16c60b.png",
     "index.html": "/index.html",
-    "main.800e19a8.css.map": "/static/css/main.800e19a8.css.map",
-    "main.261e01d3.js.map": "/static/js/main.261e01d3.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.e29866c4.css.map": "/static/css/main.e29866c4.css.map",
+    "main.439e0f22.js.map": "/static/js/main.439e0f22.js.map"
   },
   "entrypoints": [
-    "static/css/main.800e19a8.css",
-    "static/js/main.261e01d3.js"
+    "static/css/main.e29866c4.css",
+    "static/js/main.439e0f22.js"
   ]
 }
